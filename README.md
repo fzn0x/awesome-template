@@ -1,12 +1,12 @@
-# awesome-template
+# Awesome Template [![Awesome Template](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome readme lint](https://github.com/bl0cknumber/awesome-template/actions/workflows/lint.yml/badge.svg)](https://github.com/bl0cknumber/awesome-template/actions/workflows/awesome-lint.yml)
-[![awesome-badge](https://awesome.re/badge.svg)](https://awesome.re)
+> Awesome Template
 
-> Short description
+[![Awesome Template Lint](https://github.com/bl0cknumber/awesome-template/actions/workflows/lint.yml/badge.svg)](https://github.com/bl0cknumber/awesome-template/actions/workflows/lint.yml)
 
-Long description
+---
 
+Awesome Template is template created for https://github.com/sindresorhus/awesome with Awesome Lint.
 ## Contents
 
 - [Example](#example)
